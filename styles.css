@@ -1,0 +1,54 @@
+
+*{
+    margin-left: 5px;
+}
+
+.todo-header{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+li{
+    padding: 5px;
+    font-size: 110%;
+}
+
+p{
+    margin-bottom: 5px;
+    font-size: 150%;
+}
+
+#button{
+    border-radius: 3px;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.doneB {
+    margin-right: 10px;
+    margin-left: 5px;
+    border-radius: 3px;
+    position: fixed;
+    left: 280px;
+}
+
+.deleteB{
+    border-radius: 3px;
+    position: fixed;
+    left: 355px;
+}
+
+.btn-secondary{
+    border-radius: 3px;
+}
+
+.wrapper{
+    width: 500px;
+}
+
+
+
